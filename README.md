@@ -1,6 +1,6 @@
 # [微信Android历史版本](https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_faq_list)
 
-微信Android 历史版本
+微信Android 历史版本明细
 
 微信安卓版官方下载地址, 所有下载链接均来自官网
 
